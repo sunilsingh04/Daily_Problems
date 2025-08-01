@@ -1,6 +1,7 @@
-// Last updated: 8/1/2025, 6:50:38 AM
+// Last updated: 8/1/2025, 6:51:37 AM
 class Solution {
     public List<List<Integer>> generate(int numRows) {
+        // sherrr
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> prev = new ArrayList<>();
         prev.add(1);
